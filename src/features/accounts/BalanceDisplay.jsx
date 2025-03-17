@@ -1,4 +1,4 @@
-// This is the old legacy way of doing this
+// This is the old legacy way of doing it without useSelector / useDispatchHook
 import { connect } from "react-redux";
 
 function formatCurrency(value) {

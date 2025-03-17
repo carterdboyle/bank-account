@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 src/store-v1.js
+src/store-v2.js
 dist
 dist-ssr
 *.local
